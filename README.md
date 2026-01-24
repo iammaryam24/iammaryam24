@@ -4,9 +4,9 @@
 I'm a passionate web developer focused on building clean, functional, and user-friendly digital experiences.
 
 ## 📊 GitHub Stats
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammaryam24&show_icons=true&theme=radical)
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammaryam24&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=iammaryam24&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammaryam24&theme=radical&hide_border=true)
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@ I'm a passionate web developer focused on building clean, functional, and user-f
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammaryam24&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammaryam24&layout=compact&theme=radical&hide_border=true)
 
 ## 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iammaryam24.github.io/Personal-Portfolio/)
@@ -27,10 +27,10 @@ I'm a passionate web developer focused on building clean, functional, and user-f
 [![EventHub App](https://github-readme-stats.vercel.app/api/pin/?username=iammaryam24&repo=EventHub-App&theme=radical)](https://github.com/iammaryam24/EventHub-App)
 [![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=iammaryam24&repo=Personal-Portfolio&theme=radical)](https://github.com/iammaryam24/Personal-Portfolio)
 
-![Maryam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iammaryam24&theme=react-dark)
+![Maryam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iammaryam24&theme=react-dark&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iammaryam24&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iammaryam24&theme=onedark&no-frame=true&row=2&column=3)
 
 ## 🐍 My Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/iammaryam24/iammaryam24/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iammaryam24/iammaryam24/blob/output/github-contribution-grid-snake.svg)

@@ -29,8 +29,12 @@ I'm a passionate web developer focused on building clean, functional, and user-f
 
 ![Maryam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iammaryam24&theme=react-dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iammaryam24&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+## 📊 GitHub Stats
+- **Total Contributions:** [Check Profile](https://github.com/iammaryam24)
+- **Most Used Languages:** JavaScript, HTML, CSS
+- **Current Streak:** Working daily on projects
 
-## 🐍 My Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/iammaryam24/iammaryam24/output/snake.svg)
+## 🏆 Achievements
+- GitHub Profile Trophy Collection
+- 100+ Contributions in 2024
+- Multiple Pinned Projects

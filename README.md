@@ -1,40 +1,92 @@
 # 👋 Hi, I'm Maryam
 
 ## 🚀 About Me
-I'm a passionate web developer focused on building clean, functional, and user-friendly digital experiences.
+I'm a passionate web developer focused on building clean, functional, and user-friendly digital experiences. I specialize in modern frontend technologies and enjoy creating interactive web applications that solve real-world problems.
 
-## 📊 GitHub Stats
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammaryam24&show_icons=true&theme=radical&hide_border=true)
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iammaryam24&theme=radical&hide_border=true)
+### Overall Activity
+- **Total Repositories:** 20+
+- **Public Contributions:** 100+
+- **Most Active In:** JavaScript, React, Frontend Development
+- **Commit Streak:** Maintaining daily development routine
+
+### Language Distribution
+- **JavaScript:** 65%
+- **HTML/CSS:** 25%
+- **Other:** 10%
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammaryam24&layout=compact&theme=radical&hide_border=true)
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Proficient-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-Expert-green)
 
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iammaryam24.github.io/Personal-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-14055a3a4)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iammaryam24)
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-Proficient-red)
+![GitHub](https://img.shields.io/badge/GitHub-Proficient-black)
+![VS Code](https://img.shields.io/badge/VS_Code-Daily_Use-blue)
 
-## 📌 Pinned Repositories
-[![EventHub App](https://github-readme-stats.vercel.app/api/pin/?username=iammaryam24&repo=EventHub-App&theme=radical)](https://github.com/iammaryam24/EventHub-App)
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=iammaryam24&repo=Personal-Portfolio&theme=radical)](https://github.com/iammaryam24/Personal-Portfolio)
+## 🏆 Featured Projects
 
-![Maryam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iammaryam24&theme=react-dark&hide_border=true)
+### EventHub App
+**Description:** A comprehensive event management application built with React and modern web technologies. Features include event discovery, registration, and user management.
 
-## 📊 GitHub Stats
-- **Total Contributions:** [Check Profile](https://github.com/iammaryam24)
-- **Most Used Languages:** JavaScript, HTML, CSS
-- **Current Streak:** Working daily on projects
+**Tech Stack:** React, JavaScript, CSS3, Git
+**Status:** Actively Maintained
+**Link:** [View Repository](https://github.com/iammaryam24/EventHub-App)
 
-## 🏆 Achievements
-- GitHub Profile Trophy Collection
-- 100+ Contributions in 2024
-- Multiple Pinned Projects
+### Personal Portfolio
+**Description:** A responsive portfolio website showcasing my projects, skills, and professional experience.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Git
+**Status:** Live & Updated
+**Live Demo:** [Visit Portfolio](https://iammaryam24.github.io/Personal-Portfolio/)
+
+## 📈 Development Focus
+- Building scalable web applications
+- Creating responsive and accessible designs
+- Learning modern frontend frameworks
+- Contributing to open-source projects
+- Improving code quality and best practices
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/maryam-14055a3a4)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=flat&logo=github)](https://github.com/iammaryam24)
+[![Email](https://img.shields.io/badge/📧_Contact-D14836?style=flat&logo=gmail)](mailto:maryamazmat444@gmail.com)
+
+## 🎯 Current Goals
+- [x] Build a comprehensive event management system
+- [x] Create a professional portfolio website
+- [ ] Learn advanced React patterns
+- [ ] Contribute to open-source projects
+- [ ] Master TypeScript for better code quality
+
+## 📚 Recent Activity
+- **Currently Learning:** Advanced React Hooks, State Management
+- **Recently Built:** EventHub App - Full-stack event management solution
+- **Improving:** Code optimization and performance techniques
+- **Exploring:** Next.js and server-side rendering
+
+## 💡 Philosophy
+> "Write code that not only works but is also maintainable, scalable, and enjoyable to read. Good software is built with both technical excellence and user experience in mind."
+
+---
+
+### 📊 Monthly Development Breakdown
+| **Category**       | **Focus Level** |
+|--------------------|-----------------|
+| Frontend Development | ⭐⭐⭐⭐⭐        |
+| UI/UX Design        | ⭐⭐⭐⭐          |
+| Code Optimization   | ⭐⭐⭐⭐          |
+| Testing             | ⭐⭐⭐            |
+| Documentation       | ⭐⭐⭐⭐          |
+
+*Last Updated: February 2024*
+
+---
+✨ *Building the web, one component at a time.*

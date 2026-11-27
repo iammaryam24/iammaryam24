@@ -119,6 +119,10 @@ Dar-e-Arqam Schools &nbsp;|&nbsp; 2019 – 2021
 ## Contact
 
 **Email:** [maryamazmat444@gmail.com](mailto:maryamazmat444@gmail.com)
+
 **LinkedIn:** [linkedin.com/in/maryam-14055a3a4](https://www.linkedin.com/in/maryam-14055a3a4)
+
 **GitHub:** [github.com/iammaryam24](https://github.com/iammaryam24)
+
 **Portfolio:** [iammaryam24.github.io/Personal-Portfolio](https://iammaryam24.github.io/Personal-Portfolio)
+
